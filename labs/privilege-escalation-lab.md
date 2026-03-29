@@ -126,3 +126,6 @@ screenshot alert created
 * Threat detection
 * Windows security monitoring
 * Log analysis
+* ## 📸 Screenshots
+
+![Privilege Escalation](../screenshots/privilege-escalation/event4732.png)
