@@ -204,3 +204,10 @@ Error:
 * Threat detection
 * Troubleshooting
 * SOC fundamentals
+
+* ## 🔑 Key Event Explained
+
+**EventCode 4625 – Failed Logon**
+- Generated when a login attempt fails
+- Common indicator of brute force attacks
+- Contains username, source IP, and logon type
