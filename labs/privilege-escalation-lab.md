@@ -137,6 +137,16 @@ screenshot alert created
 
 ![Privilege Escalation](../screenshots/privilege-escalation/event4732.png)
 
+## 🛡️ SOC Analyst Response
+
+If this activity was detected in a real environment, I would:
+
+- Verify if the user addition to the Administrators group was authorized
+- Identify who performed the action and from which system
+- Check for related suspicious activity (logins, processes, commands)
+- Review recent changes to user accounts and permissions
+- Investigate whether this is part of a larger attack
+- Escalate immediately if unauthorized privilege escalation is detected
 ## 🔑 Key Event Explained
 
 **EventCode 4732 – User Added to Local Group**
