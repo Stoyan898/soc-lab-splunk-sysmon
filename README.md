@@ -97,6 +97,18 @@ index=wineventlog EventCode=4672
 	•	Incident investigation
 	•	MITRE ATT&CK mapping
 
+	
+## 🎣 Phishing Detection (Apache Logs)
+
+This module simulates phishing login attempts against a web server and demonstrates detection using Splunk.
+
+- Detection of POST /login.php requests
+- Identification of attacking IP
+- Dashboard visualization
+
+📁 Folder: /phishing
+	
+
 ⸻
 
 📌 Conclusion
